@@ -1,6 +1,6 @@
 #!/bin/bash
 # SayCheese v2.0
-# coded by: github.com/mohammedelaioun/cam
+# coded by: github.com/monsterredbull/cam
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
